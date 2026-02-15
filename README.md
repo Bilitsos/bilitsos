@@ -1,11 +1,9 @@
 <h1 align="left">Hi! I'm Ioannis (or John) 👋</h1>
-
 ###
-
 <p align="left">🚀 Building <a href="https://www.krewmate.gr">Krewmate</a><br><br>💡 Exploring new ideas at hackathons and shipping side projects  <br><br>🤝 Open to collaborating on AI projects and startup ventures<br><br>📍 Based in Athens, Greece  <br><br>🎓 CS Student at <a href="https://www.aueb.gr/">AUEB</a></p>
-
 ###
-
+<h3 align="left">Technologies</h3>
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,11 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/bilitsos/bilitsos/output/snake.svg" alt="Snake animation" />
-
 ###

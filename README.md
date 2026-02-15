@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Building Krewmate<br><br>💡 Always exploring new ideas at hackathons and shipping side projects  <br><br>🤝 Open to collaborating on AI projects and startup ventures<br><br>📍 Based in Athens, Greece  <br><br>🎓 CS Student at AUEB</p>
+<p align="left">🚀 Building <a href="https://www.krewmate.gr">Krewmate</a><br><br>💡 Exploring new ideas at hackathons and shipping side projects  <br><br>🤝 Open to collaborating on AI projects and startup ventures<br><br>📍 Based in Athens, Greece  <br><br>🎓 CS Student at <a href="https://www.aueb.gr/">AUEB</a></p>
 
 ###
 

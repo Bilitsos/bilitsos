@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! I'm Ioannis (or John)</h1>
 
-<p align="left">» 🚀 Building <a href="https://www.krewmate.gr" target="_blank">Krewmate</a><br><br>» 💡 Exploring new ideas at hackathons and shipping side projects  <br><br>» 🤝 Open to collaborating on AI startup ventures<br><br>» 📍 Based in Athens, Greece  <br><br>» 🎓 CS Student at <a href="https://www.aueb.gr/" target="_blank">AUEB</a></p>
+<p align="left" style="padding: 15px 0;">» 🚀 Building <a href="https://www.krewmate.gr" target="_blank">Krewmate</a><br><br>» 💡 Exploring new ideas at hackathons and shipping side projects  <br><br>» 🤝 Open to collaborating on AI startup ventures<br><br>» 📍 Based in Athens, Greece  <br><br>» 🎓 CS Student at <a href="https://www.aueb.gr/" target="_blank">AUEB</a></p>
 
 <h3 align="left">Technologies</h3>
 
